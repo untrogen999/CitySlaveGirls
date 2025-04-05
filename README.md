@@ -21,6 +21,8 @@ server to insert HTML code from other files) to break up pieces of web pages, su
 bar, across files and include them into other files as needed. Since we can't do that with Github
 Pages, the full HTML is included in the HTML instead.
 
+Lastly, there was a pair of SSIs that seemingly were used to automatically insert a "last modified" date into the footers of every page on the website, which have all been replaced with just the year "2025".
+
 This revival project and all its files are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 The original project repo, if you're
 interested, is hosted also on Github, but it does not use Github Pages:
